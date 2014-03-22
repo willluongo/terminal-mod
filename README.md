@@ -10,5 +10,5 @@ So far it is just a little tweaking for the display formatting. In the future? W
 There may be better ways to install this theme, but I like this one:
 
 ```
-git clone https://github.com/willluongo/terminal-mod.git ~/Library/Application Support/Adium 2.0/Message Styles/Terminal.AdiumMessageStyle
+git clone https://github.com/willluongo/terminal-mod.git ~/Library/Application\ Support/Adium\ 2.0/Message\ Styles/Terminal.AdiumMessageStyle
 ```
